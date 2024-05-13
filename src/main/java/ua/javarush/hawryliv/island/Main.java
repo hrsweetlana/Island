@@ -1,4 +1,4 @@
-package ua.javarush.island;
+package ua.javarush.hawryliv.island;
 
 public class Main {
     public static void main(String[] args) {
